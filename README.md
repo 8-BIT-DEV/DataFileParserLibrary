@@ -8,4 +8,4 @@ Going to what A data file looks like.
 @key2 "keyvalue1" ;                 
 @startsomething "what" ;            
 
-the space is import between the last value of the key and the semicolon.
+the space is import between the last value of the key and the semicolon. @ defines A key then you put it like @keyname "hello" "world" ; A key can have as many values as it wants there stored in A ArrayList in the key object
